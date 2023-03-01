@@ -7,7 +7,7 @@ source "https://rubygems.org"
 # gem "rails"
 gem "activerecord"
 
-gem "sinatra"
+gem "sinatra", "~>2.1"
 
 gem "sinatra-activerecord"
 
@@ -15,10 +15,14 @@ gem "rake"
 
 gem "sqlite3"
 
-gem "rerun"
 
-gem "pry"
 
 gem "rack"
 
 gem "require_all"
+
+
+group :test, :devlopment do
+    gem "rerun"
+    gem "pry"
+end
