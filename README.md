@@ -16,6 +16,17 @@ Basically we have a one to many relationship as depicted in the screenshot below
 
 ![image](https://user-images.githubusercontent.com/83941341/223022754-222cf09c-9654-4399-bfe6-74b3589677cd.png)
 
+## Live Link
+The link for the api (backend) is:
+https://memes-generator-api.onrender.com
+
+The link for my front end gihub repository is:
+https://github.com/Osorabrian/meme-generator-frontend
+
+The link for the front end is:
+https://meme-generator-frontend-nu.vercel.app/
+
+
 ## Set Up Instructions
 ### Requirements
 Language: Ruby   
